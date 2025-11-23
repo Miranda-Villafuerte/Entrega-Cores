@@ -1,0 +1,8 @@
+.rosado{
+    margin: 1rem;
+    background-color: magenta;
+    width: 30rem;
+    height: 20rem;
+    display: flex;
+    flex-wrap: wrap;
+}
